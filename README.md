@@ -1,4 +1,7 @@
 # SFM-MATLAB
+### Teaser 
+![alt text](https://github.com/iSarmad/SFM-MATLAB/blob/master/SFM2.png)
+
 Note: This repository is under construction. Thank you for your patience.
 This repository is the implementation of "Structure From Motion from Multiple Views" in MATLAB. Refer to following for in depth understanding:
 
