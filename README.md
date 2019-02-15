@@ -44,4 +44,4 @@ For specific helper function used in this repository please see the license agre
 ## Acknowledgments
 My implementation has been inspired from the following sources.
 
-* [Camera Geometry Matlab](https://uk.mathworks.com/matlabcentral/fileexchange/47032-camera-geometry-algorithms?focused=3822640&tab=function) Very slightly inspiration from this source.
+* [Camera Geometry Matlab](https://uk.mathworks.com/matlabcentral/fileexchange/47032-camera-geometry-algorithms?focused=3822640&tab=function) Mostly just looked at this for sanity check.
