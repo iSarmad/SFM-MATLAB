@@ -1,0 +1,30 @@
+Please refer to the insturctions below to produce results for this assignment.
+
+1. I did not follow the provided template.
+
+2. I made a new one and used data structures such as cell etc.
+
+3. Go to main.m and select 'dataSet' variable 1 for Default dataset and 2 for my own dataset
+
+4. Set ‘highRes’ variable in the main.m to 1 to view extremely high-resolution images. 
+(Warning: This will take 20 to 30 minutes to run, but you can do this reproduce figure in this report.).  
+
+5. By default, the flag is set to 0 so that the code runs in 2 minutes but the results will
+not be as high quality as the report.
+
+6. Please use the matlab figure to visualize the results instead of the mesh lab
+
+7. Figure files have also been saved in the current directory to visualize without running the high 
+resolution version
+ File Name : 
+  (i). two View : "twoview.fig" for your dataset, and "twoview2.fig" for my data set
+   (ii). Growing step: "finalGrowingStep1.fig" for your dataset, "finalGrowingStep2.fig" for my data set
+    (iii).Also have a look at SFM1.png and SFM2.png for growing step with your dataset
+
+8. You might need to mex the function for 5 point algorithm again on your computer 
+
+9. Finally to run Bundle Adjustment for two view, set 'optim' variable to 1. By deafult it will be 0.
+
+Thank you.
+
+
