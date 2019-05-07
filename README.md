@@ -16,16 +16,12 @@ The provided dataset of images was taken from a calibrated camera. Therefore the
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-### Prerequisites
+### Prerequisites and Steps to Run
 
-What things you need to install:
-
-* Matlab 2017a (Other Version also might work, this is what I used)
+1.  Matlab 2017a (Other Version also might work, this is what I used)
 lease refer to the insturctions below to produce results for this assignment.
 
-1. I did not follow the provided template.
-
-2. I made a new one and used data structures such as cell etc.
+2. Install vlfeat tool box for matlab [VlfeatToolbox](http://www.vlfeat.org/install-matlab.html)
 
 3. Go to main.m and select 'dataSet' variable 1 for Default dataset and 2 for my own dataset
 
@@ -50,16 +46,12 @@ resolution version
 
 Thank you.
 
-## Step1 : Feature Extraction and Matching Step
+Concept Overview:
+Step1 : Feature Extraction and Matching Step
+Step2 : Initialization Step ( Two View Step)
+Step 3 : Growing Step
 
-
-
-## Step2 : Initialization Step ( Two View Step)
-
-
-## Step 3 : Growing Step
-
-
+For description of algorithms take a look at the provided [pdf file](https://uk.mathworks.com/matlabcentral/fileexchange/47032-camera-geometry-algorithms?focused=3822640&tab=function).
 
 ## License
 
