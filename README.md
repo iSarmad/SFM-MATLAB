@@ -43,15 +43,15 @@ resolution version
 8. You might need to mex the function for 5 point algorithm again on your computer 
 
 9. Finally to run Bundle Adjustment for two view, set 'optim' variable to 1. By deafult it will be 0.
-
-Thank you.
+Note : The bundle adjustment part is incomplete, if you can contribute to the bundle adjustment step feel free to notify me.
 
 Concept Overview:
+The following steps are involved :
 Step1 : Feature Extraction and Matching Step
 Step2 : Initialization Step ( Two View Step)
-Step 3 : Growing Step
+Step3 : Growing Step
 
-For description of algorithms take a look at the provided [pdf file](https://uk.mathworks.com/matlabcentral/fileexchange/47032-camera-geometry-algorithms?focused=3822640&tab=function).
+For description of algorithms take a look at the provided [pdf file](https://github.com/iSarmad/SFM-MATLAB/blob/master/Summary%20of%20Algorithms.pdf).
 
 ## License
 
